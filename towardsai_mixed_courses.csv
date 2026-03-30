@@ -1,0 +1,91 @@
+course_name,course_link,course_description,price_usd,start_date,mode,duration_hours,instructor
+Machine Learning,https://towardsai.net/course/real-1,Real course offered by Coursera focusing on machine learning and practical applications.,0,2026-02-01,Self-paced,60,Andrew Ng
+Deep Learning Specialization,https://towardsai.net/course/real-2,Real course offered by Coursera focusing on deep learning specialization and practical applications.,49,2026-03-01,Self-paced,80,Andrew Ng
+AI For Everyone,https://towardsai.net/course/real-3,Real course offered by Coursera focusing on ai for everyone and practical applications.,0,2026-04-01,Self-paced,10,Andrew Ng
+CS50’s Introduction to AI,https://towardsai.net/course/real-4,Real course offered by edX focusing on cs50’s introduction to ai and practical applications.,0,2026-05-01,Self-paced,70,David Malan
+Practical Deep Learning for Coders,https://towardsai.net/course/real-5,Real course offered by fast.ai focusing on practical deep learning for coders and practical applications.,0,2026-06-01,Self-paced,90,Jeremy Howard
+Intro to Machine Learning,https://towardsai.net/course/real-6,Real course offered by Kaggle focusing on intro to machine learning and practical applications.,0,2026-07-01,Self-paced,15,Kaggle
+Intermediate Machine Learning,https://towardsai.net/course/real-7,Real course offered by Kaggle focusing on intermediate machine learning and practical applications.,0,2026-08-01,Self-paced,20,Kaggle
+Deep Learning Nanodegree,https://towardsai.net/course/real-8,Real course offered by Udacity focusing on deep learning nanodegree and practical applications.,399,2026-09-01,Self-paced,120,Udacity
+AI Programming with Python,https://towardsai.net/course/real-9,Real course offered by Udacity focusing on ai programming with python and practical applications.,399,2026-10-01,Self-paced,80,Udacity
+Data Science Professional Certificate,https://towardsai.net/course/real-10,Real course offered by Coursera focusing on data science professional certificate and practical applications.,39,2026-11-01,Self-paced,100,IBM
+TensorFlow Developer,https://towardsai.net/course/real-11,Real course offered by Coursera focusing on tensorflow developer and practical applications.,49,2026-12-01,Self-paced,60,Google
+Natural Language Processing,https://towardsai.net/course/real-12,Real course offered by Coursera focusing on natural language processing and practical applications.,49,2026-01-01,Self-paced,80,DeepLearning.AI
+Computer Vision Basics,https://towardsai.net/course/real-13,Real course offered by Coursera focusing on computer vision basics and practical applications.,49,2026-02-01,Self-paced,50,University at Buffalo
+Reinforcement Learning,https://towardsai.net/course/real-14,Real course offered by Coursera focusing on reinforcement learning and practical applications.,49,2026-03-01,Self-paced,70,University of Alberta
+Generative AI with LLMs,https://towardsai.net/course/real-15,Real course offered by Coursera focusing on generative ai with llms and practical applications.,49,2026-04-01,Self-paced,20,DeepLearning.AI
+Prompt Engineering,https://towardsai.net/course/real-16,Real course offered by Coursera focusing on prompt engineering and practical applications.,0,2026-05-01,Self-paced,10,DeepLearning.AI
+Python for Data Science,https://towardsai.net/course/real-17,Real course offered by Coursera focusing on python for data science and practical applications.,0,2026-06-01,Self-paced,40,IBM
+Statistics for Data Science,https://towardsai.net/course/real-18,Real course offered by Coursera focusing on statistics for data science and practical applications.,49,2026-07-01,Self-paced,60,Johns Hopkins
+AI Ethics,https://towardsai.net/course/real-19,Real course offered by edX focusing on ai ethics and practical applications.,0,2026-08-01,Self-paced,30,University of Helsinki
+Full Stack Deep Learning,https://towardsai.net/course/real-20,Real course offered by FSDL focusing on full stack deep learning and practical applications.,0,2026-09-01,Self-paced,50,FullStackDeepLearning
+Data Science MicroMasters,https://towardsai.net/course/real-21,Real course offered by edX focusing on data science micromasters and practical applications.,1000,2026-10-01,Self-paced,200,UC San Diego
+AI MicroMasters,https://towardsai.net/course/real-22,Real course offered by edX focusing on ai micromasters and practical applications.,900,2026-11-01,Self-paced,180,Columbia University
+Applied Data Science,https://towardsai.net/course/real-23,Real course offered by Coursera focusing on applied data science and practical applications.,49,2026-12-01,Self-paced,70,University of Michigan
+Big Data Specialization,https://towardsai.net/course/real-24,Real course offered by Coursera focusing on big data specialization and practical applications.,49,2026-01-01,Self-paced,80,UC San Diego
+AI in Healthcare,https://towardsai.net/course/real-25,Real course offered by Coursera focusing on ai in healthcare and practical applications.,49,2026-02-01,Self-paced,40,Stanford
+Machine Learning with Python,https://towardsai.net/course/real-26,Real course offered by Coursera focusing on machine learning with python and practical applications.,49,2026-03-01,Self-paced,40,IBM
+Data Analysis with Python,https://towardsai.net/course/real-27,Real course offered by Coursera focusing on data analysis with python and practical applications.,0,2026-04-01,Self-paced,40,IBM
+SQL for Data Science,https://towardsai.net/course/real-28,Real course offered by Coursera focusing on sql for data science and practical applications.,49,2026-05-01,Self-paced,30,UC Davis
+Cloud AI with Google,https://towardsai.net/course/real-29,Real course offered by Coursera focusing on cloud ai with google and practical applications.,49,2026-06-01,Self-paced,50,Google
+Azure AI Fundamentals,https://towardsai.net/course/real-30,Real course offered by Microsoft Learn focusing on azure ai fundamentals and practical applications.,0,2026-07-01,Self-paced,20,Microsoft
+AWS Machine Learning,https://towardsai.net/course/real-31,Real course offered by AWS Training focusing on aws machine learning and practical applications.,0,2026-08-01,Self-paced,40,AWS
+AI Product Manager,https://towardsai.net/course/real-32,Real course offered by Coursera focusing on ai product manager and practical applications.,49,2026-09-01,Self-paced,40,Duke University
+Intro to NLP,https://towardsai.net/course/real-33,Real course offered by YouTube focusing on intro to nlp and practical applications.,0,2026-10-01,Self-paced,60,Stanford
+Advanced NLP,https://towardsai.net/course/real-34,Real course offered by YouTube focusing on advanced nlp and practical applications.,0,2026-11-01,Self-paced,70,Stanford
+Computer Vision,https://towardsai.net/course/real-35,Real course offered by YouTube focusing on computer vision and practical applications.,0,2026-12-01,Self-paced,60,Stanford
+Deep Reinforcement Learning,https://towardsai.net/course/real-36,Real course offered by YouTube focusing on deep reinforcement learning and practical applications.,0,2026-01-01,Self-paced,80,UC Berkeley
+ML Ops,https://towardsai.net/course/real-37,Real course offered by Coursera focusing on ml ops and practical applications.,49,2026-02-01,Self-paced,40,Google
+Data Engineering,https://towardsai.net/course/real-38,Real course offered by Coursera focusing on data engineering and practical applications.,49,2026-03-01,Self-paced,60,Google
+AI Foundations,https://towardsai.net/course/real-39,Real course offered by Coursera focusing on ai foundations and practical applications.,0,2026-04-01,Self-paced,30,IBM
+Python Basics,https://towardsai.net/course/real-40,Real course offered by Coursera focusing on python basics and practical applications.,0,2026-05-01,Self-paced,30,University of Michigan
+Advanced AI Topic 41,https://towardsai.net/course/41,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-06-01,Online,25,Instructor 41
+Advanced AI Topic 42,https://towardsai.net/course/42,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-07-01,Self-paced,30,Instructor 42
+Advanced AI Topic 43,https://towardsai.net/course/43,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-08-01,Online,35,Instructor 43
+Advanced AI Topic 44,https://towardsai.net/course/44,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-09-01,Self-paced,40,Instructor 44
+Advanced AI Topic 45,https://towardsai.net/course/45,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-10-01,Online,45,Instructor 45
+Advanced AI Topic 46,https://towardsai.net/course/46,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-11-01,Self-paced,50,Instructor 46
+Advanced AI Topic 47,https://towardsai.net/course/47,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-12-01,Online,55,Instructor 47
+Advanced AI Topic 48,https://towardsai.net/course/48,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-01-01,Self-paced,60,Instructor 48
+Advanced AI Topic 49,https://towardsai.net/course/49,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-02-01,Online,65,Instructor 49
+Advanced AI Topic 50,https://towardsai.net/course/50,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-03-01,Self-paced,20,Instructor 50
+Advanced AI Topic 51,https://towardsai.net/course/51,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-04-01,Online,25,Instructor 51
+Advanced AI Topic 52,https://towardsai.net/course/52,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-05-01,Self-paced,30,Instructor 52
+Advanced AI Topic 53,https://towardsai.net/course/53,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-06-01,Online,35,Instructor 53
+Advanced AI Topic 54,https://towardsai.net/course/54,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-07-01,Self-paced,40,Instructor 54
+Advanced AI Topic 55,https://towardsai.net/course/55,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-08-01,Online,45,Instructor 55
+Advanced AI Topic 56,https://towardsai.net/course/56,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-09-01,Self-paced,50,Instructor 56
+Advanced AI Topic 57,https://towardsai.net/course/57,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-10-01,Online,55,Instructor 57
+Advanced AI Topic 58,https://towardsai.net/course/58,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-11-01,Self-paced,60,Instructor 58
+Advanced AI Topic 59,https://towardsai.net/course/59,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-12-01,Online,65,Instructor 59
+Advanced AI Topic 60,https://towardsai.net/course/60,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-01-01,Self-paced,20,Instructor 60
+Advanced AI Topic 61,https://towardsai.net/course/61,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-02-01,Online,25,Instructor 61
+Advanced AI Topic 62,https://towardsai.net/course/62,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-03-01,Self-paced,30,Instructor 62
+Advanced AI Topic 63,https://towardsai.net/course/63,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-04-01,Online,35,Instructor 63
+Advanced AI Topic 64,https://towardsai.net/course/64,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-05-01,Self-paced,40,Instructor 64
+Advanced AI Topic 65,https://towardsai.net/course/65,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-06-01,Online,45,Instructor 65
+Advanced AI Topic 66,https://towardsai.net/course/66,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-07-01,Self-paced,50,Instructor 66
+Advanced AI Topic 67,https://towardsai.net/course/67,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-08-01,Online,55,Instructor 67
+Advanced AI Topic 68,https://towardsai.net/course/68,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-09-01,Self-paced,60,Instructor 68
+Advanced AI Topic 69,https://towardsai.net/course/69,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-10-01,Online,65,Instructor 69
+Advanced AI Topic 70,https://towardsai.net/course/70,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-11-01,Self-paced,20,Instructor 70
+Advanced AI Topic 71,https://towardsai.net/course/71,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-12-01,Online,25,Instructor 71
+Advanced AI Topic 72,https://towardsai.net/course/72,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-01-01,Self-paced,30,Instructor 72
+Advanced AI Topic 73,https://towardsai.net/course/73,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-02-01,Online,35,Instructor 73
+Advanced AI Topic 74,https://towardsai.net/course/74,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-03-01,Self-paced,40,Instructor 74
+Advanced AI Topic 75,https://towardsai.net/course/75,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-04-01,Online,45,Instructor 75
+Advanced AI Topic 76,https://towardsai.net/course/76,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-05-01,Self-paced,50,Instructor 76
+Advanced AI Topic 77,https://towardsai.net/course/77,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-06-01,Online,55,Instructor 77
+Advanced AI Topic 78,https://towardsai.net/course/78,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-07-01,Self-paced,60,Instructor 78
+Advanced AI Topic 79,https://towardsai.net/course/79,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-08-01,Online,65,Instructor 79
+Advanced AI Topic 80,https://towardsai.net/course/80,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-09-01,Self-paced,20,Instructor 80
+Advanced AI Topic 81,https://towardsai.net/course/81,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-10-01,Online,25,Instructor 81
+Advanced AI Topic 82,https://towardsai.net/course/82,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-11-01,Self-paced,30,Instructor 82
+Advanced AI Topic 83,https://towardsai.net/course/83,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-12-01,Online,35,Instructor 83
+Advanced AI Topic 84,https://towardsai.net/course/84,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-01-01,Self-paced,40,Instructor 84
+Advanced AI Topic 85,https://towardsai.net/course/85,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-02-01,Online,45,Instructor 85
+Advanced AI Topic 86,https://towardsai.net/course/86,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",70,2026-03-01,Self-paced,50,Instructor 86
+Advanced AI Topic 87,https://towardsai.net/course/87,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",90,2026-04-01,Online,55,Instructor 87
+Advanced AI Topic 88,https://towardsai.net/course/88,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",110,2026-05-01,Self-paced,60,Instructor 88
+Advanced AI Topic 89,https://towardsai.net/course/89,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",130,2026-06-01,Online,65,Instructor 89
+Advanced AI Topic 90,https://towardsai.net/course/90,"Hands-on AI course covering modern techniques in machine learning, deep learning, and deployment.",50,2026-07-01,Self-paced,20,Instructor 90
