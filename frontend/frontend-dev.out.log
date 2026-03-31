@@ -1,0 +1,59 @@
+
+> secured-email-replying-agent-frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.22.48.1:3000
+- Environments: .env.local
+✓ Ready in 14.7s
+Creating turbopack project {
+  dir: 'C:\\Users\\SOOQ ELASER\\Desktop\\AI NEWS COLLECTER\\email_Replying_agent\\frontend',
+  testMode: true
+}
+
+ GET / 200 in 13.4s (next.js: 2.1s, application-code: 11.3s)
+ GET / 200 in 2.7s (next.js: 35ms, application-code: 2.7s)
+ GET / 200 in 267ms (next.js: 43ms, application-code: 224ms)
+ GET / 200 in 445ms (next.js: 16ms, application-code: 429ms)
+ GET / 200 in 195ms (next.js: 17ms, application-code: 177ms)
+ GET / 200 in 479ms (next.js: 261ms, application-code: 218ms)
+ GET / 200 in 467ms (next.js: 24ms, application-code: 443ms)
+ GET / 200 in 934ms (next.js: 646ms, application-code: 288ms)
+ GET / 200 in 2.1s (next.js: 14ms, application-code: 2.1s)
+ GET / 200 in 254ms (next.js: 10ms, application-code: 244ms)
+ GET / 200 in 268ms (next.js: 11ms, application-code: 257ms)
+ GET / 200 in 536ms (next.js: 10ms, application-code: 526ms)
+ GET / 200 in 1759ms (next.js: 1583ms, application-code: 176ms)
+ GET / 200 in 238ms (next.js: 7ms, application-code: 231ms)
+ GET / 200 in 198ms (next.js: 10ms, application-code: 187ms)
+ GET / 200 in 740ms (next.js: 8ms, application-code: 732ms)
+ GET / 200 in 122ms (next.js: 8ms, application-code: 114ms)
+ GET / 200 in 93ms (next.js: 9ms, application-code: 84ms)
+ GET / 200 in 207ms (next.js: 8ms, application-code: 199ms)
+ GET / 200 in 743ms (next.js: 10ms, application-code: 733ms)
+ GET / 200 in 318ms (next.js: 8ms, application-code: 310ms)
+ GET / 200 in 268ms (next.js: 8ms, application-code: 261ms)
+ GET / 200 in 155ms (next.js: 7ms, application-code: 149ms)
+ GET / 200 in 302ms (next.js: 7ms, application-code: 294ms)
+ GET / 200 in 157ms (next.js: 8ms, application-code: 148ms)
+ GET / 200 in 305ms (next.js: 10ms, application-code: 295ms)
+ GET / 200 in 1884ms (next.js: 1478ms, application-code: 406ms)
+ GET / 200 in 1931ms (next.js: 9ms, application-code: 1923ms)
+ GET / 200 in 97ms (next.js: 11ms, application-code: 86ms)
+ GET / 200 in 133ms (next.js: 7ms, application-code: 126ms)
+ GET / 200 in 546ms (next.js: 396ms, application-code: 151ms)
+ GET / 200 in 219ms (next.js: 7ms, application-code: 212ms)
+ GET / 200 in 2.7s (next.js: 14ms, application-code: 2.7s)
+ GET / 200 in 1131ms (next.js: 8ms, application-code: 1122ms)
+ GET / 200 in 462ms (next.js: 7ms, application-code: 454ms)
+ GET / 200 in 1245ms (next.js: 10ms, application-code: 1236ms)
+ GET / 200 in 252ms (next.js: 17ms, application-code: 235ms)
+ GET / 200 in 231ms (next.js: 9ms, application-code: 222ms)
+ GET / 200 in 199ms (next.js: 16ms, application-code: 183ms)
+ GET / 200 in 430ms (next.js: 8ms, application-code: 422ms)
+ GET / 200 in 213ms (next.js: 9ms, application-code: 204ms)
+ GET / 200 in 149ms (next.js: 4ms, application-code: 145ms)
+ GET / 200 in 2.0s (next.js: 17ms, application-code: 2.0s)
+ GET / 200 in 456ms (next.js: 10ms, application-code: 446ms)
+ GET / 200 in 1948ms (next.js: 11ms, application-code: 1938ms)

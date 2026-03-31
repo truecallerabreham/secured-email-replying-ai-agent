@@ -1,7 +1,22 @@
 [project]
 name = "email-replying-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Phase 1 backend for a secure Gmail reply assistant."
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "email-validator>=2.2.0",
+    "fastapi>=0.115.0",
+    "google-api-python-client>=2.169.0",
+    "google-auth>=2.39.0",
+    "httpx>=0.28.1",
+    "itsdangerous>=2.2.0",
+    "pydantic-settings>=2.8.1",
+    "supabase>=2.15.0",
+    "uvicorn[standard]>=0.34.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.3.5",
+]
